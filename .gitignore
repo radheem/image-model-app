@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+./flaskapp/test_images/*
 # Distribution / packaging
 .Python
 build/
